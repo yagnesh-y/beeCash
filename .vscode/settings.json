@@ -1,0 +1,6 @@
+{
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "C_Cpp.errorSquiggles": "Disabled"
+}

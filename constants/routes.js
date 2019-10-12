@@ -1,0 +1,6 @@
+export default {
+  APP: 'APP',
+  USERNAME: 'USERNAME',
+  EVENTS: 'EVENTS',
+  EVENT_DETAILS: 'EVENT_DETAILS'
+};
